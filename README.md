@@ -1,0 +1,1 @@
+Em resumo, esse código é um programa simples que simula um sistema bancário básico com operações de consulta de saldo, recebimento de valor e transferência de valor. Ele é útil para entender conceitos básicos de controle de fluxo, entrada/saída e manipulação de variáveis em Java.
